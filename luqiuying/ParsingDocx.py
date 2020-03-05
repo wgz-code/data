@@ -80,3 +80,4 @@ if __name__ == '__main__':
     
     #将生成的excel文件格式进行设置
     foamrt_excel("reslut.xlsx")
+ 
